@@ -1,2 +1,2 @@
-# CharJS_atividade
+# ChartJS_atividade
 ChartJS
